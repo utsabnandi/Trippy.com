@@ -1,2 +1,2 @@
-# MiniProjectSem3
-This is the Mini Project on Travel And Tourism made By Utsab Nandi, Chinmayi Palav, Arnav Murdande, Kunal Nemade
+# Trippy.com
+Travel & Tourism Website using HTML5, CSS6 & JavaScript
